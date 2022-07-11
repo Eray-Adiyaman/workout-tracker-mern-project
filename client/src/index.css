@@ -76,6 +76,7 @@ header a {
   border: 1px solid #555;
   padding: 10px;
   border-radius: 5px;
+  height: 480px;
 }
 .create h3 {
   text-align: center;
