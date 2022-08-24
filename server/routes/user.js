@@ -10,6 +10,6 @@ router.post("/login",loginUser)
 
 
 //Singup route
-router.post("/singup",signupUser)
+router.post("/signup",signupUser)
 
 module.exports = router;
