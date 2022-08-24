@@ -24,4 +24,4 @@ const signupUser = async (req,res) => {
     }
 }
 
-module.exports = { signupUser,loginUser}
+module.exports = { signupUser,loginUser }
